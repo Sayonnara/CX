@@ -10,8 +10,8 @@ janela.title("Caixa Automático ")
 janela.geometry('705x370')
 janela.configure(bg='green') #background (fundo)
 janela.resizable(True,True) # Responsividade
-janela.maxsize(width=900,height=700)
-janela.minsize(width=500,height=400)
+janela.maxsize(width=705,height=370)
+janela.minsize(width=705,height=370)
 
 #Variaveis Globais
 saldoAtual = 5000
