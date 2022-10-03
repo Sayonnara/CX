@@ -1,4 +1,4 @@
 # CX
 ## Simulador teste 
 
-![Imagem]!()
+![Imagem](https://github.com/Sayonnara/CX/blob/main/Imagem-Simulador.png)
